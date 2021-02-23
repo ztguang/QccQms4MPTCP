@@ -1,0 +1,2 @@
+[  664.175089] healthd: battery l=95 v=10000 t=0.0 h=1 st=1 cc=0 chg=a
+[  724.176061] healthd: battery l=95 v=10000 t=0.0 h=1 st=1 cc=0 chg=a

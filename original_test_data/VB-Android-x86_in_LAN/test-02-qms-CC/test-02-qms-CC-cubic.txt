@@ -1,0 +1,5 @@
+[  646.521245] type=1400 audit(1614010755.134:462): avc: denied { read write } for pid=1098 comm="netd" path="socket:[20494]" dev="sockfs" ino=20494 scontext=u:r:init:s0 tcontext=u:r:su:s0 tclass=tcp_socket permissive=1
+[  646.521270] type=1400 audit(1614010755.134:463): avc: denied { getopt } for pid=1098 comm="netd" scontext=u:r:init:s0 tcontext=u:r:su:s0 tclass=tcp_socket permissive=1
+[  646.521283] type=1400 audit(1614010755.134:464): avc: denied { setopt } for pid=1098 comm="netd" scontext=u:r:init:s0 tcontext=u:r:su:s0 tclass=tcp_socket permissive=1
+[  646.527143] softirq: huh, entered softirq 3 NET_RX 00000000399d3089 with preempt_count 00000101, exited with 00000100?
+[  663.543766] healthd: battery l=95 v=10000 t=0.0 h=1 st=1 cc=0 chg=a
