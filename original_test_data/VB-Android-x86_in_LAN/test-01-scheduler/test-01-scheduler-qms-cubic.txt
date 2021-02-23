@@ -1,0 +1,8 @@
+[  142.644015] type=1400 audit(1614005504.298:428): avc: denied { read write } for pid=1097 comm="netd" path="socket:[15074]" dev="sockfs" ino=15074 scontext=u:r:init:s0 tcontext=u:r:su:s0 tclass=tcp_socket permissive=1
+[  142.644042] type=1400 audit(1614005504.298:429): avc: denied { getopt } for pid=1097 comm="netd" scontext=u:r:init:s0 tcontext=u:r:su:s0 tclass=tcp_socket permissive=1
+[  142.644053] type=1400 audit(1614005504.298:430): avc: denied { setopt } for pid=1097 comm="netd" scontext=u:r:init:s0 tcontext=u:r:su:s0 tclass=tcp_socket permissive=1
+[  142.662671] softirq: huh, entered softirq 3 NET_RX 00000000ba0c3c2d with preempt_count 00000101, exited with 00000100?
+[  150.726936] type=1400 audit(1614005512.380:431): avc: denied { call } for pid=2194 comm="com.termoneplus" scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:init:s0 tclass=binder permissive=1
+[  158.350130] type=1400 audit(1614005520.004:432): avc: denied { call } for pid=1450 comm="ndroid.systemui" scontext=u:r:platform_app:s0:c512,c768 tcontext=u:r:init:s0 tclass=binder permissive=1
+[  184.857758] healthd: battery l=95 v=10000 t=0.0 h=1 st=1 cc=0 chg=a
+[  187.902786] type=1400 audit(1614005549.558:433): avc: denied { read } for pid=1360 comm="Thread-23" path=2F6465762F6173686D656D2F64616C76696B2D6D61696E207370616365202864656C6574656429 dev="tmpfs" ino=7930 scontext=u:r:system_server:s0 tcontext=u:object_r:init_tmpfs:s0 tclass=file permissive=1

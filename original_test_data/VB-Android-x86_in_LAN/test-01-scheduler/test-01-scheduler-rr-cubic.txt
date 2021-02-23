@@ -1,0 +1,2 @@
+[  684.905309] softirq: huh, entered softirq 3 NET_RX 0000000073a60632 with preempt_count 00000101, exited with 00000100?
+[  724.888994] healthd: battery l=95 v=10000 t=0.0 h=1 st=1 cc=0 chg=a
