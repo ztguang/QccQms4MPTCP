@@ -1,0 +1,11 @@
+[ 1486.560460] FG: fg_battery_soc_smooth_tracking: soc:100, last_soc:100, raw_soc:100, soc_changed:1.
+[ 1486.560476] FG: soc_monitor_work: soc:100, raw_soc:100, c:135742, s:4
+[ 1496.800688] FG: fg_battery_soc_smooth_tracking: soc:100, last_soc:100, raw_soc:100, soc_changed:1.
+[ 1496.800706] FG: soc_monitor_work: soc:100, raw_soc:100, c:145507, s:4
+[ 1500.370355] FG: fg_cycle_counter_update: batt_soc: 245 bucket: 7 chg_status: 4
+[ 1500.374040] healthd: battery l=100 v=4286 t=29.0 h=2 st=5 c=-27 fc=2179000 cc=1391 chg=u
+[ 1500.375502] FG: status_change_work: charge_status:4 charge_type:1 charge_done:1
+[ 1500.385823] healthd: battery l=100 v=4286 t=29.0 h=2 st=5 c=-27 fc=2179000 cc=1391 chg=u
+[ 1506.831353] healthd: battery l=100 v=4275 t=29.0 h=2 st=5 c=-95 fc=2179000 cc=1391 chg=u
+[ 1507.040605] FG: fg_battery_soc_smooth_tracking: soc:100, last_soc:100, raw_soc:100, soc_changed:1.
+[ 1507.040621] FG: soc_monitor_work: soc:100, raw_soc:100, c:95214, s:4

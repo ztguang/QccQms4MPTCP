@@ -1,0 +1,25 @@
+[  902.880529] FG: fg_battery_soc_smooth_tracking: soc:100, last_soc:100, raw_soc:100, soc_changed:1.
+[  902.880546] FG: soc_monitor_work: soc:100, raw_soc:100, c:-185058, s:1
+[  903.192354] FG: fg_cycle_counter_update: batt_soc: 246 bucket: 7 chg_status: 1
+[  903.193244] FG: status_change_work: charge_status:1 charge_type:3 charge_done:0
+[  903.194872] healthd: battery l=100 v=4389 t=28.0 h=2 st=2 c=185 fc=2179000 cc=1391 chg=u
+[  903.203013] healthd: battery l=100 v=4389 t=28.0 h=2 st=2 c=185 fc=2179000 cc=1391 chg=u
+[  905.258320] HTB: quantum of class 10010 is big. Consider r2q change.
+[  905.342297] HTB: quantum of class 10010 is big. Consider r2q change.
+[  906.830398] healthd: battery l=100 v=4262 t=28.0 h=2 st=2 c=-249 fc=2179000 cc=1391 chg=u
+[  908.113204] HTB: quantum of class 10010 is big. Consider r2q change.
+[  908.199429] HTB: quantum of class 10010 is big. Consider r2q change.
+[  913.025194] FG: fg_cycle_counter_update: batt_soc: 246 bucket: 7 chg_status: 1
+[  913.026804] FG: status_change_work: charge_status:1 charge_type:3 charge_done:0
+[  913.030520] healthd: battery l=100 v=4347 t=28.0 h=2 st=2 c=25 fc=2179000 cc=1391 chg=u
+[  913.039820] healthd: battery l=100 v=4347 t=28.0 h=2 st=2 c=25 fc=2179000 cc=1391 chg=u
+[  913.120406] FG: fg_battery_soc_smooth_tracking: soc:100, last_soc:100, raw_soc:100, soc_changed:1.
+[  913.120422] FG: soc_monitor_work: soc:100, raw_soc:100, c:-25878, s:1
+[  913.701808] HTB: quantum of class 10010 is big. Consider r2q change.
+[  913.783812] HTB: quantum of class 10010 is big. Consider r2q change.
+[  916.258924] HTB: quantum of class 10010 is big. Consider r2q change.
+[  916.343859] HTB: quantum of class 10010 is big. Consider r2q change.
+[  923.360396] FG: fg_battery_soc_smooth_tracking: soc:100, last_soc:100, raw_soc:100, soc_changed:1.
+[  923.360412] FG: soc_monitor_work: soc:100, raw_soc:100, c:59570, s:1
+[  933.600386] FG: fg_battery_soc_smooth_tracking: soc:100, last_soc:100, raw_soc:100, soc_changed:1.
+[  933.600401] FG: soc_monitor_work: soc:100, raw_soc:100, c:55175, s:1
