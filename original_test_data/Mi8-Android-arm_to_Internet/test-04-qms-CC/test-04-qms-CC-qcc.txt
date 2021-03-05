@@ -1,0 +1,12 @@
+[  626.400409] FG: fg_battery_soc_smooth_tracking: soc:100, last_soc:100, raw_soc:100, soc_changed:1.
+[  626.400426] FG: soc_monitor_work: soc:100, raw_soc:100, c:-16113, s:4
+[  629.560584] HTB: quantum of class 10010 is big. Consider r2q change.
+[  629.643122] HTB: quantum of class 10010 is big. Consider r2q change.
+[  631.476087] HTB: quantum of class 10010 is big. Consider r2q change.
+[  631.558974] HTB: quantum of class 10010 is big. Consider r2q change.
+[  636.640423] FG: fg_battery_soc_smooth_tracking: soc:100, last_soc:100, raw_soc:100, soc_changed:1.
+[  636.640440] FG: soc_monitor_work: soc:100, raw_soc:100, c:116210, s:4
+[  646.880446] FG: fg_battery_soc_smooth_tracking: soc:100, last_soc:100, raw_soc:100, soc_changed:1.
+[  646.880462] FG: soc_monitor_work: soc:100, raw_soc:100, c:125488, s:4
+[  657.120398] FG: fg_battery_soc_smooth_tracking: soc:100, last_soc:100, raw_soc:100, soc_changed:1.
+[  657.120414] FG: soc_monitor_work: soc:100, raw_soc:100, c:111328, s:4

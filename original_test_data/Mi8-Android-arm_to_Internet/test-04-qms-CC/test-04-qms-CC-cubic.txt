@@ -1,0 +1,6 @@
+[ 1158.880426] FG: fg_battery_soc_smooth_tracking: soc:100, last_soc:100, raw_soc:100, soc_changed:1.
+[ 1158.880443] FG: soc_monitor_work: soc:100, raw_soc:100, c:113769, s:4
+[ 1169.120565] FG: fg_battery_soc_smooth_tracking: soc:100, last_soc:100, raw_soc:100, soc_changed:1.
+[ 1169.120581] FG: soc_monitor_work: soc:100, raw_soc:100, c:56152, s:4
+[ 1179.360753] FG: fg_battery_soc_smooth_tracking: soc:100, last_soc:100, raw_soc:100, soc_changed:1.
+[ 1179.360768] FG: soc_monitor_work: soc:100, raw_soc:100, c:83007, s:4
